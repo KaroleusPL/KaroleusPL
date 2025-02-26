@@ -2,13 +2,13 @@
 
   <body>
     <p>
-    - 👋 Hi, I’m @KaroleusPL
-    - 👀 I’m interested in Your Mother
-    - 🌱 I’m currently learning Your Mother
-    - 💞️ I’m looking to collaborate on Your Mother
-    - 📫 How to reach me Your Mother
-    - 😄 Pronouns: Your Mother
-    - ⚡ Fun fact: Your Mother
+    - 👋 Hi, I’m @KaroleusPL <br>
+    - 👀 I’m interested in Your Mother <br>
+    - 🌱 I’m currently learning Your Mother <br>
+    - 💞️ I’m looking to collaborate on Your Mother <br>
+    - 📫 How to reach me Your Mother <br>
+    - 😄 Pronouns: Your Mother <br>
+    - ⚡ Fun fact: Your Mother <br>
     </p>
     
   </body>
